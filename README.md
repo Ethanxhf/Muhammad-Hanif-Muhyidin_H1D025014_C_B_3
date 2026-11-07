@@ -1,6 +1,3 @@
-# Smart Irrigation
-Smart Irrigation OOP.
-
 ## Profile
 1. Nama : Muhammad Hanif Muhyidin
 2. NIM  : H1D025014
@@ -8,8 +5,8 @@ Smart Irrigation OOP.
 
 ## Compile and Run
 ```
-git clone  https://github.com/Ethanxhf/Smart_Irrigation_OOP.git
-cd Smart_Irrigation_OOP
+git clone https://github.com/Ethanxhf/Muhammad-Hanif-Muhyidin_H1D025014_C_B_3.git
+cd Muhammad-Hanif-Muhyidin_H1D025014_C_B_3
 java -cp bin IoT.Main
 ```
 ## Output Program
