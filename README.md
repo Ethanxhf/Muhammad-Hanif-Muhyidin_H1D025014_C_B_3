@@ -13,4 +13,5 @@ cd Smart_Irrigation_OOP
 java -cp bin IoT.Main
 ```
 ## Output Program
-<img width="650" height="407" alt="image" src="https://github.com/user-attachments/assets/e47fd1cf-bd59-40d8-ba35-76a8d1ef8510" />
+<img width="667" height="487" alt="image" src="https://github.com/user-attachments/assets/2f59b1bc-7c8c-426d-92a0-877a7e310e7c" />
+
